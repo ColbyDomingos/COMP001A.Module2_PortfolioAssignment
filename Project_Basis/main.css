@@ -24,12 +24,14 @@ h3{
     font-family : 'Courier New', Courier, monospace;
 }
 
+/* Styles for the nav bar in index.html */
 nav {
     text-align: center;
     background-color: rgb(230, 190, 82);
     color: rgb(81, 131, 179);
 }
 
+/* Styles for the footer in index.html */
 footer{
     text-align: center;
     background-color: rgb(230, 190, 82);
