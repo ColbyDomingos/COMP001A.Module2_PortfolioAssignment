@@ -1,0 +1,37 @@
+/* StyleSheet links to index.html */ 
+
+body {
+    background-color: rgb(234, 248, 157);
+    color: rgb(23, 27, 14);
+    
+}
+
+/* Specific style for the article title in index.html */
+.ArticleTitle {
+    background-color: rgb(230, 190, 82);
+    color: rgb(81, 131, 179);
+    text-align: center;
+}
+
+/* Styles for the heading text in index.html */
+h2 {
+    color: rgb(18, 108, 192);
+    font-family : 'Courier New', Courier, monospace;
+}
+
+/* Styles for the sub-heading text in index.html */
+h3{
+    font-family : 'Courier New', Courier, monospace;
+}
+
+nav {
+    text-align: center;
+    background-color: rgb(230, 190, 82);
+    color: rgb(81, 131, 179);
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(230, 190, 82);
+    color: rgb(81, 131, 179);
+}
